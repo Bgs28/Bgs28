@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Katon Bagas! 👋<br>**Information Systems Student | Backend Enthusiast | Future Web3 Architect**<br><br>I am a 6th-semester Information Systems student passionate about building scalable back-end systems and uncovering insights through data. Currently, I am expanding my horizons into the Web3 ecosystem, exploring blockchain technology and decentralized applications.<br><br>---<br><br>### 🚀 What I'm Currently Up To<br>- 🔭 **Focusing on:** Microservices architecture and Database Optimization.<br>- 📊 **Data Science:** Analyzing trends and building predictive models.<br>- 🌐 **Web3 Journey:** Learning Solidity and Smart Contract development.<br>- 🎓 **Education:** Pursuing a Bachelor's degree in Information Systems.<br><br><br>- **Email:** [katonb380@gmail.com](mailto:katonb380@gmail.com)<br>
+# Hi there, I'm Katon Bagas! 👋<br>**Information Systems Student | Backend Enthusiast | Future Web3 Architect**<br><br>I am a 6th-semester Information Systems student passionate about building scalable back-end systems and uncovering insights through data. Currently, I am expanding my horizons into the Web3 ecosystem, exploring blockchain technology and decentralized applications.<br><br>---<br><br> **Email:** [katonb380@gmail.com](mailto:katonb380@gmail.com)<br>
 
 
 ## 🌐 Socials:
