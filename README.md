@@ -48,9 +48,19 @@ I am a 6th-semester Information Systems student passionate about building scalab
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://stats.kyomesuke.me/api?username=Bgs28&theme=shadow_blue)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bgs28&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<a href="#">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bgs28&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bgs28&theme=github_dark" />
+</a>
+
+<a href="#">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bgs28&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bgs28&theme=github_dark&utcOffset=7" />
+</a>
 ---
 
 ## Dev Quote
