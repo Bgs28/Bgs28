@@ -48,7 +48,7 @@ I am a 6th-semester Information Systems student passionate about building scalab
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bgs28&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
