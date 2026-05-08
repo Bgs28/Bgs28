@@ -50,12 +50,7 @@ I am a 6th-semester Information Systems student passionate about building scalab
 
 ## GitHub Stats
 
-![GitHub Stats](https://readme-stats-sigma-five.vercel.app/api?username=Bgs28&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Bgs28&theme=shadow_blue&hide_border=false)
-
-![Top Languages](https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bgs28&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![GitHub Stats](https://stats.kyomesuke.me/api?username=Bgs28&theme=shadow_blue)
 ---
 
 ## Dev Quote
