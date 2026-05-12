@@ -62,9 +62,7 @@ I am a 6th-semester Information Systems student passionate about building scalab
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bgs28&theme=github_dark&utcOffset=7" />
 </a>
 
-
+---
 ## Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
