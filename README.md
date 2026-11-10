@@ -1,4 +1,4 @@
-hai semua, aku katon bagas. seorang mahasiswa IT dan sedang berfokus pada backend developer dan AI.
+Hi everyone, I'm Katon Bagas. I'm an IT student currently focusing on backend development and AI. 
 
 ## Contact & Socials
 
